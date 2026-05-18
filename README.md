@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Sh4nku/LeetStreak/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/Sh4nku/LeetStreak/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Sh4nku/LeetStreak/tree/master/0383-ransom-note) |
 ## Design
 |  |
 | ------- |
@@ -48,4 +49,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Sh4nku/LeetStreak/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Sh4nku/LeetStreak/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Sh4nku/LeetStreak/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
