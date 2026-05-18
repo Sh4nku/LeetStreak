@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sh4nku/LeetStreak/tree/master/0146-lru-cache) |
+| [0290-word-pattern](https://github.com/Sh4nku/LeetStreak/tree/master/0290-word-pattern) |
 ## Design
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sh4nku/LeetStreak/tree/master/0146-lru-cache) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Sh4nku/LeetStreak/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
