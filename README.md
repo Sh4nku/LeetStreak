@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sh4nku/LeetStreak/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/Sh4nku/LeetStreak/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sh4nku/LeetStreak/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sh4nku/LeetStreak/tree/master/0383-ransom-note) |
 ## Design
@@ -48,10 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sh4nku/LeetStreak/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sh4nku/LeetStreak/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sh4nku/LeetStreak/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Sh4nku/LeetStreak/tree/master/0383-ransom-note) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sh4nku/LeetStreak/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
