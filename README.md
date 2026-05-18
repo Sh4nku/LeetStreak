@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sh4nku/LeetStreak/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sh4nku/LeetStreak/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sh4nku/LeetStreak/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sh4nku/LeetStreak/tree/master/0383-ransom-note) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sh4nku/LeetStreak/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sh4nku/LeetStreak/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
