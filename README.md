@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sh4nku/LeetStreak/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sh4nku/LeetStreak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sh4nku/LeetStreak/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/Sh4nku/LeetStreak/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sh4nku/LeetStreak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sh4nku/LeetStreak/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Sh4nku/LeetStreak/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/Sh4nku/LeetStreak/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sh4nku/LeetStreak/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sh4nku/LeetStreak/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Sh4nku/LeetStreak/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
