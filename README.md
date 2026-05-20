@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sh4nku/LeetStreak/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Sh4nku/LeetStreak/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sh4nku/LeetStreak/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Sh4nku/LeetStreak/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Sh4nku/LeetStreak/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Sh4nku/LeetStreak/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sh4nku/LeetStreak/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Sh4nku/LeetStreak/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sh4nku/LeetStreak/tree/master/0383-ransom-note) |
 ## Design
 |  |
@@ -65,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sh4nku/LeetStreak/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sh4nku/LeetStreak/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sh4nku/LeetStreak/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Sh4nku/LeetStreak/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -101,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sh4nku/LeetStreak/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sh4nku/LeetStreak/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sh4nku/LeetStreak/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sh4nku/LeetStreak/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sh4nku/LeetStreak/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
