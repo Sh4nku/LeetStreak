@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sh4nku/LeetStreak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Sh4nku/LeetStreak/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Sh4nku/LeetStreak/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sh4nku/LeetStreak/tree/master/0290-word-pattern) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sh4nku/LeetStreak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Sh4nku/LeetStreak/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sh4nku/LeetStreak/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sh4nku/LeetStreak/tree/master/0290-word-pattern) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sh4nku/LeetStreak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sh4nku/LeetStreak/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
