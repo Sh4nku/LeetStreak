@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sh4nku/LeetStreak/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sh4nku/LeetStreak/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Sh4nku/LeetStreak/tree/master/0347-top-k-frequent-elements) |
+| [0867-transpose-matrix](https://github.com/Sh4nku/LeetStreak/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sh4nku/LeetStreak/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Sh4nku/LeetStreak/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Sh4nku/LeetStreak/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
